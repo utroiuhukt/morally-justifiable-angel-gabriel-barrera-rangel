@@ -1,7 +1,7 @@
 # Francisco Alejandro García Vela
 
 ## 1. **What is the Darknet?**
-    It is the hidden portion of the Internert not indexed by standard engines, accessible only through spcialized tools like  Tor, I2P, or Freenet. It emphazises anonymity and privacy, making it a space for both egitimate and illegal activities. While it can protect whistleblowers, journalists, and activists in oppressive regions, it also harbors illegal marketplaces for drugs, weapons, and stolen data. Transactions often use cryptocurrencies like Bitcoin to maintain anonymity. Despite its potential for privacy, the Darknet carries significant risks, including malware, scams, and law enforcement scrutiny. While using the Darknet isn't inherently illegal, many activities conducted on it are, creating ethical and legal challenges. In essence, it's a double-edged sword, offering privacy for some while enabling illicit actions for others.
+ It is the hidden portion of the Internert not indexed by standard engines, accessible only through spcialized tools like  Tor, I2P, or Freenet. It emphazises anonymity and privacy, making it a space for both egitimate and illegal activities. While it can protect whistleblowers, journalists, and activists in oppressive regions, it also harbors illegal marketplaces for drugs, weapons, and stolen data. Transactions often use cryptocurrencies like Bitcoin to maintain anonymity. Despite its potential for privacy, the Darknet carries significant risks, including malware, scams, and law enforcement scrutiny. While using the Darknet isn't inherently illegal, many activities conducted on it are, creating ethical and legal challenges. In essence, it's a double-edged sword, offering privacy for some while enabling illicit actions for others.
 
 ## 2. **Is it morally respectable to use individuals (even if they are criminals)?**
    The morality of using individuals, even criminals, depends on the context, intentions, and consequences. If the goal is to achieve a greater good—like preventing harm or upholding justice—it may be justifiable, such as law enforcement using informants. However, respect for human dignity is essential; exploiting or dehumanizing individuals is ethically wrong. Consent, fairness, and proportionality also matter: actions should be transparent, voluntary where possible, and balanced against the outcomes. While utilitarian perspectives might justify such use for the greater good, deontological ethics often oppose using individuals as mere means to an end. In summary, using individuals can be morally acceptable in specific, ethically grounded situations, but it must be approached with caution and respect for their humanity.
@@ -12,14 +12,14 @@
 ## 4. **Pick one of the measures that he took to protect himself, did he violate any principle?**
    Using encryption tools like Tor or VPNs to protect oneself on the Darknet, as Sam Bent likely discussed, does not inherently violate ethical, legal, or moral principles. These tools are designed for privacy and security, which are fundamental rights. However, the intent behind their use determines whether principles are violated:
 
-      Ethically: If used for illegal or harmful activities, it violates ethical principles.
+Ethically: If used for illegal or harmful activities, it violates ethical principles.
 
-      Legally: While the tools themselves are legal, using them to commit crimes breaches the law.
+Legally: While the tools themselves are legal, using them to commit crimes breaches the law.
 
-      Morally: If used to expose wrongdoing or protect others, it aligns with moral principles; if used to harm or enable crime, it conflicts with them.
+Morally: If used to expose wrongdoing or protect others, it aligns with moral principles; if used to harm or enable crime, it conflicts with them.
       
 ## 5. **If you had the opportunity to ask Sam Bent about his experience, what would you ask him?**
-      How does being a Draknet's vendor affected your lifestyle and how does the Governmet thought about having someone with a background like you working now with them at the Defence Bureau?
+How does being a Draknet's vendor affected your lifestyle and how does the Governmet thought about having someone with a background like you working now with them at the Defence Bureau?
 
 ## Jeshua Abraham Perez Diaz Touhou
 
@@ -41,7 +41,7 @@
    * Do you think law enforcement should use hackers and dark web criminals to fight cybercrime?
    * Looking back, do you think your skills could have been used in a different, legal way?
 
-## Angel Gabriel Barrera Rangel 5043
+## Angel Gabriel Barrera Rangel NecoArc
 # 1- What is the Darknet?
    The darknet is like a hidden part of the internet. You can't find it with Google or normal browsers. To access it, you need special programs like Tor, which let you visit sites ending in ".onion." People use the darknet to browse anonymously, which can be useful for protecting privacy, but it's also used for illegal things, like selling drugs or stolen information. It's like a dark alley of the internet: interesting, but with risks.
 # 2- Is it morally respectable to use individuals (even if they are criminals)?
