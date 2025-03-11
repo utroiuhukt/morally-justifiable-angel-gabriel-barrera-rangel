@@ -21,12 +21,12 @@ Morally: If used to expose wrongdoing or protect others, it aligns with moral pr
 ## 5. **If you had the opportunity to ask Sam Bent about his experience, what would you ask him?**
 How does being a Draknet's vendor affected your lifestyle and how does the Governmet thought about having someone with a background like you working now with them at the Defence Bureau?
 
-## Jeshua Abraham Perez Diaz Touhou
+## Jeshua Abraham Perez Diaz 5013
 
 # 1. What is the Darknet?
    The Darknet refers to a part of the internet that is intentionally hidden and requires special software, configurations, or authorization to access. It is often associated with anonymity, privacy, and restricted access.
 # 2. Is it morally respectable to use individuals (even if they are criminals)?
-   It really comes down to intent and consequences. If law enforcement, for example, uses a hacker who sells illegal things on the dark web to catch bigger criminals or prevent harm,and i'm one of them, some might argue it's justified. The idea is that leveraging their knowledge could serve a greater good. But then there's the question of whether it’s ethical to use someone, even a criminal, as a tool.
+   It really comes down to intent and consequences. If law enforcement, for example, uses a hacker who sells illegal things on the dark web to catch bigger criminals or prevent harm, some might argue it's justified. The idea is that leveraging their knowledge could serve a greater good. But then there's the question of whether it’s ethical to use someone, even a criminal, as a tool.
 # 3. Does the fact that he has been working with the justice redeem the crimes he did?
    In general, when individuals assist law enforcement by providing information or testimony, it can lead to reduced sentences or other considerations. However, such cooperation doesn't erase the original crimes but may be viewed as a mitigating factor during sentencing.
 # 4. Pick one of the measures that he took to protect himself, did he violate any principle?
